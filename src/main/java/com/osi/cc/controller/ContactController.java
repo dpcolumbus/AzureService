@@ -29,6 +29,7 @@ import retrofit2.Response;
 
 
 @Controller
+
 @RestController
 public class ContactController {
 
