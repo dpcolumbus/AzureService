@@ -28,7 +28,7 @@
     
    
 	<dependencies>
-	<!-- https://mvnrepository.com/artifact/jdom/jdom mobile-->
+	<!-- https://mvnrepository.com/artifact/jdom/jdom mobile version-->
 <dependency>
     <groupId>jdom</groupId>
     <artifactId>jdom</artifactId>
