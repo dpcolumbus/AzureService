@@ -28,7 +28,7 @@
     
    
 	<dependencies>
-	<!-- https://mvnrepository.com/artifact/jdom/jdom pujari-->
+	<!-- https://mvnrepository.com/artifact/jdom/jdom mobile-->
 <dependency>
     <groupId>jdom</groupId>
     <artifactId>jdom</artifactId>
