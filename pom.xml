@@ -28,7 +28,10 @@
     
    
 	<dependencies>
-	<!-- https://mvnrepository.com/artifact/jdom/jdom  iphone-->
+
+	
+	<!-- https://mvnrepository.com/artifact/jdom/jdom mobile version-->
+
 <dependency>
     <groupId>jdom</groupId>
     <artifactId>jdom</artifactId>
