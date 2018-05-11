@@ -28,7 +28,7 @@
     
    
 	<dependencies>
-	<!-- https://mvnrepository.com/artifact/jdom/jdom deepak-->
+	<!-- https://mvnrepository.com/artifact/jdom/jdom pujari-->
 <dependency>
     <groupId>jdom</groupId>
     <artifactId>jdom</artifactId>
