@@ -28,7 +28,7 @@
     
    
 	<dependencies>
-	<!-- https://mvnrepository.com/artifact/jdom/jdom  deeapk-->
+	<!-- https://mvnrepository.com/artifact/jdom/jdom  iphone-->
 <dependency>
     <groupId>jdom</groupId>
     <artifactId>jdom</artifactId>
